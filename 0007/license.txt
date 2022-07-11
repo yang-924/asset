@@ -1,0 +1,11 @@
+Model Information:
+* title:	0点的007
+* source:	https://sketchfab.com/3d-models/0007-6997ca6709464622a0e86013e0b44246
+* author:	hy123 (https://sketchfab.com/hy123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "0点的007" (https://sketchfab.com/3d-models/0007-6997ca6709464622a0e86013e0b44246) by hy123 (https://sketchfab.com/hy123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
